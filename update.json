@@ -1,7 +1,13 @@
 {
-  "updateAvailable": false,
-  "latestVersion": "1.0.1",
-  "downloadUrl": "",
-  "releaseNotes": "",
-  "history": []
+  "updateAvailable": true,
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://github.com/Adel1555/SurTeamFinance/releases/download/untagged-0deb823822f66a159952/v1.0.2.zip",
+  "releaseNotes": "تحديث جديد يتضمن نظام المدير المالي وصلاحيات الموظفين، وتحسينات الأرشيف والتقارير المفلترة.",
+  "history": [
+    {
+      "version": "1.0.2",
+      "date": "2026-06-27",
+      "notes": "إضافة وضع المدير المالي، إعدادات صلاحيات الموظفين، تقييد التبويبات والأزرار حسب الصلاحيات، وتحسينات طباعة وتصدير السجلات المفلترة."
+    }
+  ]
 }
